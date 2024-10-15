@@ -10,6 +10,10 @@ The MegaObfuskator takes two arguments:
 It outputs the obfuscated picture in the file "obfuscated.bmp" and prevent anyone to understand what was the initial content.
 The only thing I am sure about is that without my passphrase even the greatest mind cannot revert the process (muhahaha, how michievous of me !!!)!
 
+Usage example: ./MegaObfuskator --image pic.bmp --passphrase MySuperPassphrase
+
+Reminder, to install python: https://www.python.org/downloads/release/python-368/
+
 # Obfuscation algorithm
 
 The obfuscation algorithm is well described in the following paragraphs although its sound chinese to me, it looks more like latin:
